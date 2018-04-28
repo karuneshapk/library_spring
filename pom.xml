@@ -8,9 +8,6 @@
 	<packaging>war</packaging>
 	<version>1.0.0</version>
 	<name>librarySpringMVCSecurity</name>
-
-	
-	
   	<properties>
 		<springframework.version>4.2.5.RELEASE</springframework.version>
 		<springsecurity.version>4.0.4.RELEASE</springsecurity.version>
